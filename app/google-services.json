@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "566786044981",
+    "firebase_url": "https://susulanmodul6.firebaseio.com",
+    "project_id": "susulanmodul6",
+    "storage_bucket": "susulanmodul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566786044981:android:bd8daac2bbc5672e",
+        "android_client_info": {
+          "package_name": "com.easy.android.susulan_modul6_arfiaari_1202152158"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566786044981-mgnargpc9doju803ikf1isd4imasajls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easy.android.susulan_modul6_arfiaari_1202152158",
+            "certificate_hash": "3b5f8b7894f9d0f64a2bc0788cab11edeb63fe5f"
+          }
+        },
+        {
+          "client_id": "566786044981-023rb5s17ibj4ekiqesefi7fgm0hstjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwBqbpj6FhznksrOvlojMeViZTIv672Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566786044981-023rb5s17ibj4ekiqesefi7fgm0hstjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
